@@ -1,0 +1,132 @@
+{
+  "api": "VerseLotto API",
+  "versao": "1.0.0",
+  "atualizado_em": "2025-10-04T05:15:07.9432658Z",
+  "total_loterias": 7,
+  "loterias_suportadas": 7,
+  "loterias": {
+    "mega-sena": {
+      "loteria": "mega-sena",
+      "nome": "Mega-Sena",
+      "pais": "BR",
+      "concurso": "2922",
+      "data": "02/10/2025",
+      "numeros": [
+        4,
+        23,
+        30,
+        39,
+        40,
+        41
+      ],
+      "atualizado_em": "2025-10-04T05:14:29.8462178Z",
+      "premio": "R$ 12.000.000,00"
+    },
+    "quina": {
+      "loteria": "quina",
+      "nome": "Quina",
+      "pais": "BR",
+      "concurso": "6843",
+      "data": "03/10/2025",
+      "numeros": [
+        4,
+        14,
+        45,
+        71,
+        80
+      ],
+      "atualizado_em": "2025-10-04T05:14:36.5740037Z",
+      "premio": "R$ 16.700.000,00"
+    },
+    "mais-milionaria": {
+      "loteria": "mais-milionaria",
+      "nome": "+Milionária",
+      "pais": "BR",
+      "concurso": "290",
+      "data": "01/10/2025",
+      "numeros": [
+        4,
+        20,
+        29,
+        31,
+        36,
+        46
+      ],
+      "trevos": [
+        2,
+        6
+      ],
+      "atualizado_em": "2025-10-04T05:14:49.9806199Z",
+      "premio": "R$ 170.000.000,00"
+    },
+    "powerball": {
+      "loteria": "powerball",
+      "nome": "Powerball",
+      "pais": "USA",
+      "concurso": null,
+      "numeros": [
+        8,
+        17,
+        22,
+        28,
+        55
+      ],
+      "power_ball": 14,
+      "atualizado_em": "2025-10-04T05:14:55.4218664Z",
+      "power_play": "3x",
+      "premio": "$195 Million"
+    },
+    "megamillions": {
+      "loteria": "megamillions",
+      "nome": "Mega Millions",
+      "pais": "USA",
+      "concurso": null,
+      "numeros": [
+        18,
+        19,
+        38,
+        54,
+        57
+      ],
+      "mega_ball": [
+        19
+      ],
+      "atualizado_em": "2025-10-04T05:14:58.1700292Z",
+      "premio": "$547 Million"
+    },
+    "euromillions": {
+      "loteria": "euromillions",
+      "nome": "EuroMillions",
+      "pais": "EU",
+      "concurso": null,
+      "numeros": [
+        6,
+        12,
+        18,
+        25,
+        41
+      ],
+      "lucky_stars": [
+        2,
+        6
+      ],
+      "atualizado_em": "2025-10-04T05:15:02.8539332Z"
+    },
+    "baloto": {
+      "loteria": "baloto",
+      "nome": "Baloto",
+      "pais": "CO",
+      "concurso": null,
+      "numeros": [
+        2,
+        26,
+        32,
+        35,
+        39
+      ],
+      "superbalota": 11,
+      "atualizado_em": "2025-10-04T05:15:07.9376188Z",
+      "premio": "COP $22.900 millones"
+    }
+  }
+}
