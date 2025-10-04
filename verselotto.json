@@ -1,7 +1,7 @@
 {
   "api": "VerseLotto API",
   "versao": "1.0.0",
-  "atualizado_em": "2025-10-04T05:15:07.9432658Z",
+  "atualizado_em": "2025-10-04T06:08:13.3169558Z",
   "total_loterias": 7,
   "loterias_suportadas": 7,
   "loterias": {
@@ -19,7 +19,7 @@
         40,
         41
       ],
-      "atualizado_em": "2025-10-04T05:14:29.8462178Z",
+      "atualizado_em": "2025-10-04T06:07:38.2168528Z",
       "premio": "R$ 12.000.000,00"
     },
     "quina": {
@@ -35,7 +35,7 @@
         71,
         80
       ],
-      "atualizado_em": "2025-10-04T05:14:36.5740037Z",
+      "atualizado_em": "2025-10-04T06:07:44.4203145Z",
       "premio": "R$ 16.700.000,00"
     },
     "mais-milionaria": {
@@ -56,7 +56,7 @@
         2,
         6
       ],
-      "atualizado_em": "2025-10-04T05:14:49.9806199Z",
+      "atualizado_em": "2025-10-04T06:07:56.4880851Z",
       "premio": "R$ 170.000.000,00"
     },
     "powerball": {
@@ -72,7 +72,7 @@
         55
       ],
       "power_ball": 14,
-      "atualizado_em": "2025-10-04T05:14:55.4218664Z",
+      "atualizado_em": "2025-10-04T06:08:01.0546896Z",
       "power_play": "3x",
       "premio": "$195 Million"
     },
@@ -88,10 +88,8 @@
         54,
         57
       ],
-      "mega_ball": [
-        19
-      ],
-      "atualizado_em": "2025-10-04T05:14:58.1700292Z",
+      "mega_ball": 19,
+      "atualizado_em": "2025-10-04T06:08:03.8882200Z",
       "premio": "$547 Million"
     },
     "euromillions": {
@@ -110,7 +108,7 @@
         2,
         6
       ],
-      "atualizado_em": "2025-10-04T05:15:02.8539332Z"
+      "atualizado_em": "2025-10-04T06:08:08.4688312Z"
     },
     "baloto": {
       "loteria": "baloto",
@@ -125,7 +123,7 @@
         39
       ],
       "superbalota": 11,
-      "atualizado_em": "2025-10-04T05:15:07.9376188Z",
+      "atualizado_em": "2025-10-04T06:08:13.3126933Z",
       "premio": "COP $22.900 millones"
     }
   }
