@@ -1,130 +1,62 @@
 {
   "api": "VerseLotto API",
   "versao": "1.0.0",
-  "atualizado_em": "2025-10-13T09:35:28.1722564Z",
-  "total_loterias": 7,
-  "loterias_suportadas": 7,
+  "atualizado_em": "2025-10-14T06:29:36.7470098Z",
+  "total_loterias": 2,
+  "loterias_suportadas": 9,
   "loterias": {
-    "mega-sena": {
-      "loteria": "mega-sena",
-      "nome": "Mega-Sena",
-      "pais": "BR",
-      "concurso": "2926",
-      "data": "11/10/2025",
+    "melate": {
+      "loteria": "melate",
+      "nome": "Melate",
+      "pais": "MX",
       "numeros": [
-        3,
-        4,
-        14,
-        35,
-        45,
-        49
-      ],
-      "atualizado_em": "2025-10-13T09:34:45.4744093Z",
-      "premio": "R$ 33.000.000,00"
-    },
-    "quina": {
-      "loteria": "quina",
-      "nome": "Quina",
-      "pais": "BR",
-      "concurso": "6850",
-      "data": "11/10/2025",
-      "numeros": [
-        34,
-        55,
-        61,
-        71,
-        72
-      ],
-      "atualizado_em": "2025-10-13T09:34:52.1549231Z",
-      "premio": "R$ 1.600.000,00"
-    },
-    "mais-milionaria": {
-      "loteria": "mais-milionaria",
-      "nome": "+Milionária",
-      "pais": "BR",
-      "concurso": "293",
-      "data": "11/10/2025",
-      "numeros": [
-        4,
-        21,
-        29,
-        33,
-        39,
-        42
-      ],
-      "trevos": [
-        1,
-        4
-      ],
-      "atualizado_em": "2025-10-13T09:35:06.7394838Z",
-      "premio": "R$ 10.000.000,00"
-    },
-    "powerball": {
-      "loteria": "powerball",
-      "nome": "Powerball",
-      "pais": "USA",
-      "concurso": null,
-      "numeros": [
-        13,
-        16,
-        18,
-        20,
-        27
-      ],
-      "power_ball": 10,
-      "atualizado_em": "2025-10-13T09:35:12.9735841Z",
-      "power_play": "2x",
-      "premio": "$258 Million"
-    },
-    "megamillions": {
-      "loteria": "megamillions",
-      "nome": "Mega Millions",
-      "pais": "USA",
-      "concurso": null,
-      "numeros": [
-        3,
-        18,
-        23,
-        32,
-        56
-      ],
-      "mega_ball": 8,
-      "atualizado_em": "2025-10-13T09:35:17.5834892Z",
-      "premio": "$600 Million"
-    },
-    "euromillions": {
-      "loteria": "euromillions",
-      "nome": "EuroMillions",
-      "pais": "EU",
-      "concurso": null,
-      "numeros": [
-        6,
-        7,
-        17,
-        20,
-        21
-      ],
-      "lucky_stars": [
-        1,
-        10
-      ],
-      "atualizado_em": "2025-10-13T09:35:22.8887743Z"
-    },
-    "baloto": {
-      "loteria": "baloto",
-      "nome": "Baloto",
-      "pais": "CO",
-      "concurso": null,
-      "numeros": [
+        12,
         10,
-        13,
-        14,
-        28,
-        38
+        6,
+        21,
+        30,
+        41
       ],
-      "superbalota": 12,
-      "atualizado_em": "2025-10-13T09:35:28.1661879Z",
-      "premio": "COP $24.500 millones"
+      "adicional": 47,
+      "atualizado_em": "2025-10-14T06:29:34.9369040Z"
+    },
+    "quini6": {
+      "loteria": "quini6",
+      "nome": "Quini 6",
+      "pais": "AR",
+      "numeros": [
+        4,
+        6,
+        16,
+        25,
+        29,
+        43
+      ],
+      "segunda": [
+        0,
+        12,
+        18,
+        28,
+        29,
+        43
+      ],
+      "revancha": [
+        1,
+        2,
+        9,
+        12,
+        34,
+        37
+      ],
+      "siempre_sale": [
+        1,
+        6,
+        12,
+        17,
+        25,
+        33
+      ],
+      "atualizado_em": "2025-10-14T06:29:36.7402604Z"
     }
   }
 }
