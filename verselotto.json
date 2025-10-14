@@ -1,7 +1,7 @@
 {
   "api": "VerseLotto API",
   "versao": "1.0.0",
-  "atualizado_em": "2025-10-14T06:31:58.8785271Z",
+  "atualizado_em": "2025-10-14T06:40:38.5219868Z",
   "total_loterias": 9,
   "loterias_suportadas": 9,
   "loterias": {
@@ -19,7 +19,7 @@
         45,
         49
       ],
-      "atualizado_em": "2025-10-14T06:31:16.6094935Z",
+      "atualizado_em": "2025-10-14T06:39:57.7343511Z",
       "premio": "R$ 33.000.000,00"
     },
     "quina": {
@@ -35,7 +35,7 @@
         42,
         55
       ],
-      "atualizado_em": "2025-10-14T06:31:22.4844183Z",
+      "atualizado_em": "2025-10-14T06:40:03.4768988Z",
       "premio": "R$ 2.300.000,00"
     },
     "mais-milionaria": {
@@ -56,7 +56,7 @@
         1,
         4
       ],
-      "atualizado_em": "2025-10-14T06:31:35.4503478Z",
+      "atualizado_em": "2025-10-14T06:40:15.7624251Z",
       "premio": "R$ 10.000.000,00"
     },
     "powerball": {
@@ -72,7 +72,7 @@
         64
       ],
       "power_ball": 12,
-      "atualizado_em": "2025-10-14T06:31:41.3646363Z",
+      "atualizado_em": "2025-10-14T06:40:21.3489831Z",
       "power_play": "2x",
       "premio": "$258 Million"
     },
@@ -89,7 +89,7 @@
         56
       ],
       "mega_ball": 8,
-      "atualizado_em": "2025-10-14T06:31:45.1649913Z",
+      "atualizado_em": "2025-10-14T06:40:24.0895907Z",
       "premio": "$600 Million"
     },
     "euromillions": {
@@ -108,7 +108,7 @@
         1,
         10
       ],
-      "atualizado_em": "2025-10-14T06:31:50.1070205Z"
+      "atualizado_em": "2025-10-14T06:40:28.9649358Z"
     },
     "baloto": {
       "loteria": "baloto",
@@ -123,7 +123,7 @@
         34
       ],
       "superbalota": 7,
-      "atualizado_em": "2025-10-14T06:31:55.0624123Z",
+      "atualizado_em": "2025-10-14T06:40:34.0114831Z",
       "premio": "COP $25.000 millones"
     },
     "melate": {
@@ -139,7 +139,7 @@
         41
       ],
       "adicional": 47,
-      "atualizado_em": "2025-10-14T06:31:57.0466966Z"
+      "atualizado_em": "2025-10-14T06:40:36.3375164Z"
     },
     "quini6": {
       "loteria": "quini6",
@@ -177,7 +177,7 @@
         25,
         33
       ],
-      "atualizado_em": "2025-10-14T06:31:58.8708093Z"
+      "atualizado_em": "2025-10-14T06:40:38.5156640Z"
     }
   }
 }
