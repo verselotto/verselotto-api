@@ -1,7 +1,7 @@
 {
   "api": "VerseLotto API",
   "versao": "1.0.0",
-  "atualizado_em": "2025-10-23T02:33:57.3508976Z",
+  "atualizado_em": "2025-10-23T12:09:42.5649664Z",
   "total_loterias": 9,
   "loterias_suportadas": 9,
   "loterias": {
@@ -19,7 +19,7 @@
         36,
         45
       ],
-      "atualizado_em": "2025-10-23T02:33:08.6836758Z",
+      "atualizado_em": "2025-10-23T12:08:44.7575905Z",
       "premio": "R$ 85.000.000,00"
     },
     "quina": {
@@ -35,7 +35,7 @@
         39,
         79
       ],
-      "atualizado_em": "2025-10-23T02:33:16.5374005Z",
+      "atualizado_em": "2025-10-23T12:08:54.8696229Z",
       "premio": "R$ 14.500.000,00"
     },
     "mais-milionaria": {
@@ -56,7 +56,7 @@
         1,
         3
       ],
-      "atualizado_em": "2025-10-23T02:33:29.5682999Z",
+      "atualizado_em": "2025-10-23T12:09:08.7392489Z",
       "premio": "R$ 10.000.000,00"
     },
     "powerball": {
@@ -65,16 +65,16 @@
       "pais": "USA",
       "concurso": null,
       "numeros": [
-        32,
-        38,
-        66,
-        67,
-        69
+        18,
+        37,
+        52,
+        54,
+        60
       ],
-      "power_ball": 19,
-      "atualizado_em": "2025-10-23T02:33:36.9744807Z",
+      "power_ball": 12,
+      "atualizado_em": "2025-10-23T12:09:14.8669743Z",
       "power_play": "2x",
-      "premio": "$320 Million"
+      "premio": "$344 Million"
     },
     "megamillions": {
       "loteria": "megamillions",
@@ -89,7 +89,7 @@
         59
       ],
       "mega_ball": 18,
-      "atualizado_em": "2025-10-23T02:33:41.0935093Z",
+      "atualizado_em": "2025-10-23T12:09:19.4729150Z",
       "premio": "$680 Million"
     },
     "euromillions": {
@@ -108,7 +108,7 @@
         6,
         12
       ],
-      "atualizado_em": "2025-10-23T02:33:46.6753176Z"
+      "atualizado_em": "2025-10-23T12:09:25.7797058Z"
     },
     "baloto": {
       "loteria": "baloto",
@@ -116,30 +116,30 @@
       "pais": "CO",
       "concurso": null,
       "numeros": [
-        9,
-        11,
-        15,
-        23,
-        29
+        3,
+        5,
+        14,
+        19,
+        26
       ],
-      "superbalota": 4,
-      "atualizado_em": "2025-10-23T02:33:51.8859897Z",
-      "premio": "COP $26.200 millones"
+      "superbalota": 6,
+      "atualizado_em": "2025-10-23T12:09:31.1260532Z",
+      "premio": "COP $26.600 millones"
     },
     "melate": {
       "loteria": "melate",
       "nome": "Melate",
       "pais": "MX",
       "numeros": [
-        2,
-        13,
-        20,
-        23,
-        39,
-        44
+        1,
+        5,
+        7,
+        8,
+        32,
+        40
       ],
-      "adicional": 25,
-      "atualizado_em": "2025-10-23T02:33:55.0844166Z"
+      "adicional": 36,
+      "atualizado_em": "2025-10-23T12:09:34.3417445Z"
     },
     "quini6": {
       "loteria": "quini6",
@@ -177,7 +177,7 @@
         31,
         40
       ],
-      "atualizado_em": "2025-10-23T02:33:57.3467188Z"
+      "atualizado_em": "2025-10-23T12:09:42.5579944Z"
     }
   }
 }
