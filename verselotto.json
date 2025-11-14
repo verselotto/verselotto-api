@@ -1,7 +1,7 @@
 {
   "api": "VerseLotto API",
   "versao": "1.0.0",
-  "atualizado_em": "2025-11-13T12:14:50.9988082Z",
+  "atualizado_em": "2025-11-14T03:46:25.4222601Z",
   "total_loterias": 9,
   "loterias_suportadas": 9,
   "loterias": {
@@ -19,24 +19,24 @@
         42,
         49
       ],
-      "atualizado_em": "2025-11-13T12:14:12.4573272Z",
+      "atualizado_em": "2025-11-14T03:44:45.3363897Z",
       "premio": "R$ 100.000.000,00"
     },
     "quina": {
       "loteria": "quina",
       "nome": "Quina",
       "pais": "BR",
-      "concurso": "6877",
-      "data": "12/11/2025",
+      "concurso": "6878",
+      "data": "13/11/2025",
       "numeros": [
-        26,
-        27,
-        36,
-        41,
-        80
+        18,
+        20,
+        23,
+        51,
+        56
       ],
-      "atualizado_em": "2025-11-13T12:14:16.0706934Z",
-      "premio": "R$ 600.000,00"
+      "atualizado_em": "2025-11-14T03:44:48.9570325Z",
+      "premio": "R$ 1.400.000,00"
     },
     "mais-milionaria": {
       "loteria": "mais-milionaria",
@@ -56,7 +56,7 @@
         3,
         5
       ],
-      "atualizado_em": "2025-11-13T12:14:27.1812529Z",
+      "atualizado_em": "2025-11-14T03:44:58.2348818Z",
       "premio": "R$ 10.000.000,00"
     },
     "powerball": {
@@ -72,7 +72,7 @@
         65
       ],
       "power_ball": 23,
-      "atualizado_em": "2025-11-13T12:14:31.6749549Z",
+      "atualizado_em": "2025-11-14T03:45:02.3780745Z",
       "power_play": "2x",
       "premio": "$546 Million"
     },
@@ -89,7 +89,7 @@
         46
       ],
       "mega_ball": 1,
-      "atualizado_em": "2025-11-13T12:14:35.7897930Z",
+      "atualizado_em": "2025-11-14T03:45:06.3379974Z",
       "premio": "$965 Million"
     },
     "euromillions": {
@@ -108,7 +108,7 @@
         2,
         10
       ],
-      "atualizado_em": "2025-11-13T12:14:40.8212277Z"
+      "atualizado_em": "2025-11-14T03:45:10.9578606Z"
     },
     "baloto": {
       "loteria": "baloto",
@@ -123,7 +123,7 @@
         24
       ],
       "superbalota": 14,
-      "atualizado_em": "2025-11-13T12:14:45.6206070Z",
+      "atualizado_em": "2025-11-14T03:46:20.3776679Z",
       "premio": "COP $5.100 millones"
     },
     "melate": {
@@ -139,7 +139,7 @@
         49
       ],
       "adicional": 2,
-      "atualizado_em": "2025-11-13T12:14:49.1806921Z"
+      "atualizado_em": "2025-11-14T03:46:22.9241673Z"
     },
     "quini6": {
       "loteria": "quini6",
@@ -177,7 +177,7 @@
         22,
         32
       ],
-      "atualizado_em": "2025-11-13T12:14:50.9905036Z"
+      "atualizado_em": "2025-11-14T03:46:25.4168356Z"
     }
   }
 }
